@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Nurillo 👋
 
-<!--
-**Nurillo1997/Nurillo1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer focused on Python/Django and the MERN stack.
+Currently building production-ready CRUD applications with Docker,
+PostgreSQL, and modern frontend integrations (Oracle JET, HTMX, React).
 
-Here are some ideas to get you started:
+🔭 Currently working on: Django + Oracle JET + HTMX employee management system
+🌱 Learning: production deployment workflows, FastAPI + RabbitMQ, RAG/AI systems
+📍 Based in Tashkent, Uzbekistan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured project
+
+**[django-htmx-crud](https://github.com/Nurillo1997/django-htmx-crud)** — Django 6 + Oracle JET + HTMX employee management app with form validation, dynamic table updates, and PostgreSQL in production.
+
+🔗 [Live demo](https://django-htmx-crud.onrender.com)
+
+** MERN Stack web project
+🔗 [Live demo](https://nurstore.onrender.com/)
