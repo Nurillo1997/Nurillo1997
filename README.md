@@ -1,18 +1,31 @@
-Hi, I'm Nurillo
+## Hi there, I'm Nurillo 👋
 
-Full-stack developer focused on Python/Django and the MERN stack.
-Currently building production-ready CRUD applications with Docker,
-PostgreSQL, and modern frontend integrations (Oracle JET, HTMX, React).
+I'm a **Full-Stack & Computer Vision Developer** based in Tashkent, Uzbekistan. I specialize in building production-ready web applications and deploying intelligent AI/CV models for real-world solutions. 
 
-Currently working on: Django + Oracle JET + HTMX employee management system
-Learning: production deployment workflows, FastAPI + RabbitMQ, RAG/AI systems
-Based in Tashkent, Uzbekistan
+### 🔭 What I'm currently working on
+* **Computer Vision & AI:** Developing practical vision pipelines for **license plate recognition (Toshkent Parking)**, person detection for security surveillance, and industrial defect monitoring.
+* **Data Processing:** Streamlining model training by transitioning from manual tools (like Label Studio) to automated data labeling workflows, particularly for complex segmentation tasks like froth flotation bubbles.
 
-Featured project
+### 🌱 What I'm currently learning
+* Advanced production deployment workflows and remote infrastructure management.
+* **FastAPI + RabbitMQ** for building scalable backend microservices.
+* **RAG/AI systems** and optimizing high-performance **DeepStream applications** utilizing the **NVIDIA TAO Toolkit**.
 
-**[django-htmx-crud](https://github.com/Nurillo1997/django-htmx-crud)** — Django 6 + Oracle JET + HTMX employee management app with form validation, dynamic table updates, and PostgreSQL in production.
+### 🛠️ Tech Stack & Tools
+* **Backend:** Node.js, Express
+* **Databases:** PostgreSQL, MongoDB
+* **AI & Machine Learning:** NVIDIA TAO Toolkit, DeepStream, Computer Vision (Object Detection, Image Segmentation)
+* **DevOps & Architecture:** Docker, RabbitMQ
 
-🔗 [Live demo](https://django-htmx-crud.onrender.com)
+---
 
-** MERN Stack web project
-🔗 [Live demo](https://nurstore.onrender.com/)
+### 🚀 Featured Projects
+
+* **[django-htmx-crud](https://github.com/Nurillo1997/django-htmx-crud)** A complete Django 6 + Oracle JET + HTMX employee management app featuring form validation, dynamic table updates, and PostgreSQL in production.
+  🔗 [Live Demo](https://django-htmx-crud.onrender.com)
+
+* **NurStore (MERN Stack)** A dynamic, full-stack e-commerce web application built from the ground up.
+  🔗 [Live Demo](https://nurstore.onrender.com/)
+
+* **Toshkent Parking (CV Pipeline)**
+  A custom computer vision application utilizing a specialized license plate engine for automated parking management.
