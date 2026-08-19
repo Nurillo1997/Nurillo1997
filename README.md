@@ -3,7 +3,7 @@
 I'm a **Full-Stack & Computer Vision Developer** based in Tashkent, Uzbekistan. I specialize in building production-ready web applications and deploying intelligent AI/CV models for real-world solutions. 
 
 ### 🔭 What I'm currently working on
-* **Computer Vision & AI:** Developing practical vision pipelines for **license plate recognition (Toshkent Parking)**, person detection for security surveillance, and industrial defect monitoring.
+* **Computer Vision & AI:** Developing practical vision pipelines for **license plate recognition **, person detection for security surveillance, and industrial defect monitoring.
 * **Data Processing:** Streamlining model training by transitioning from manual tools (like Label Studio) to automated data labeling workflows, particularly for complex segmentation tasks like froth flotation bubbles.
 
 ### 🌱 What I'm currently learning
